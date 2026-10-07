@@ -8,17 +8,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/WhIteGh0s1/relin/releases/latest/download/relin-setup.exe"><b>⬇ Скачать Relin для Windows</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/WhIteGh0s1/relin/releases">Все версии</a>
-  &nbsp;·&nbsp;
-  <a href="#частые-вопросы">Частые вопросы</a>
+  <a href="https://github.com/WhIteGh0s1/relin/releases/latest/download/relin-setup.exe"><img src="docs/download.png" alt="Скачать для Windows" width="263"></a>
 </p>
 
 <p align="center">
-  <img alt="Версия" src="https://img.shields.io/github/v/release/WhIteGh0s1/relin?style=flat-square&color=111111&label=версия">
-  <img alt="Windows 10 и 11" src="https://img.shields.io/badge/Windows-10%20%7C%2011-111111?style=flat-square">
-  <img alt="Скачивания" src="https://img.shields.io/github/downloads/WhIteGh0s1/relin/total?style=flat-square&color=111111&label=скачиваний">
+  <sub><a href="https://github.com/WhIteGh0s1/relin/releases">все версии</a> &nbsp;·&nbsp; <a href="#частые-вопросы">частые вопросы</a> &nbsp;·&nbsp; Windows 10 и 11</sub>
 </p>
 
 <br>
