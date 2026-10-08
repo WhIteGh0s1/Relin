@@ -18,6 +18,14 @@
 <br>
 
 <p align="center">
+  <a href="docs/reel.mp4"><img src="docs/reel.gif" alt="Relin — моушен-ролик" width="100%"></a>
+</p>
+
+<p align="center"><sub><a href="docs/reel.mp4">▶ смотреть со звуком</a></sub></p>
+
+<br>
+
+<p align="center">
   <img src="docs/screen-download.png" alt="Загрузки в Relin" width="100%">
 </p>
 
